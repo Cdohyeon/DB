@@ -104,7 +104,7 @@ DMBS=database management system
 <img src="https://github.com/Cdohyeon/DB/blob/main/2.jpg?raw=true" alt="DB" />
 <br>
 <h3>microsoft SQL Server</h3>
-<img src="https://github.com/Cdohyeon/DB/blob/main/3.jpg?raw=true" alt="DB" />
+<img src="https://github.com/Cdohyeon/DB/blob/main/3.png?raw=true" alt="DB" />
 </div>
 
 <div><h3>SQL이란 무엇인가</h3></div>
@@ -134,15 +134,17 @@ CREATE TABLE 테이블명 (
 ALL	ALL=연산자는 하나의 값을 다른 값들의 집합의 모든 값들과 비교할 때 사용합니다.
 <table>
 <tr>
-<td>산술연산자
+<td>연산자
 </td>
-<td>+,-,*,/,%
+<td>설명
 </td>
-<td>
+</tr>
+<tr>
+<td>+
 </td>
-<td>
+<td>더하기 - 연산자 양쪽의 값을 서로 더합니다.
 </td>
-<td>
+</tr>
 </table>
 
 
