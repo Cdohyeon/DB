@@ -97,12 +97,47 @@ DMBS=database management system
 
 종류:
 <div>
-<img src="https://github.com/Cdohyeon/DB/blob/main/20171006_015055.png?raw=true" alt="DB" />
+<h3>오라클</h3>
+<img src="https://github.com/Cdohyeon/DB/blob/main/1.jpg?raw=true" alt="DB" />
+<br>
+<h3>mysql</h3>
+<img src="https://github.com/Cdohyeon/DB/blob/main/2.jpg?raw=true" alt="DB" />
+<br>
+<h3>microsoft SQL Server</h3>
+<img src="https://github.com/Cdohyeon/DB/blob/main/3.jpg?raw=true" alt="DB" />
 </div>
 
+<div><h3>SQL이란 무엇인가</h3></div>
+정의:
+관계형 데이터베이스 관리 시스템(RDBMS)의 데이터를 관리하기 위해 설계된 특수 목적의 프로그래밍 언어이다
+
+명령어:
+SELECT * FROM 테이블명 WHERE 필드='조건' AND 필드2='조건2'
+
+DELETE FROM 테이블명 WHERE 조건
+
+UPDATE 테이블명 SET 필드='값', 필드2='값', 필드3='값' WHERE 필드 LIKE '조건'
+
+INSERT INTO 테이블명(필드1, 필드2) VALUES ('값', '값' );
+
+CREATE TABLE 테이블명 (
+
+      필드명 타입 조건,
 
 
+)
 
+연산자:
+산술연산자:+,-,*,/,%
+비교연산자 : >, >=, <, <=, =, <>(not equal)
+논리 연산자:
+ALL	ALL=연산자는 하나의 값을 다른 값들의 집합의 모든 값들과 비교할 때 사용합니다.
+<table>
+<tr>
+<td>산술연산자:+,-,*,/,%
+</td>
+<td>
+</table>
 
 
  
